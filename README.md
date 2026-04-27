@@ -47,4 +47,4 @@ A passionate Full Stack Developer focused on building scalable, high-performance
 ## 📫 Contact
 
 - Email: dev.melad.adera@gmail.com
-- LinkedIn: https://linkedin.com/in/MeladAdera
+- LinkedIn: https://linkedin.com/in/Melad Adera
