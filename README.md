@@ -41,13 +41,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: dev.meld.adera@gmail.com
+- LinkedIn: https://linkedin.com/in/MeladAdera
