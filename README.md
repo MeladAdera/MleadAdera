@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Milad</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Milad;Full+Stack+Developer;Building+Modern+Web+Apps+🚀" />
+</h1>
 
 <p align="center">
-  Full Stack Developer | Computer Science Student
+A passionate Full Stack Developer focused on building scalable, high-performance, and user-friendly web applications using modern technologies.
 </p>
-
 ---
 
 ## 👤 About Me
@@ -15,31 +16,44 @@
 
 ## 🛠️ Tech Stack
 
-## 💻 Tech Stack
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
 - 🏆 Sport Booker App – Booking sports activities platform  
-- 💼 Job Board App – Job listing and application system  
+- 💼 Job Board App – Job listing and application system
+- 🧩 **Task Manager App**  
+  A web application for managing tasks, organizing workflows, and improving productivity with a clean and simple UI.
+
+- 🛒 **Full Stack E-Commerce Platform**  
+  A complete e-commerce system with authentication, product management, shopping cart, and secure checkout functionality.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Contact
 
-- Email: dev.meld.adera@gmail.com
-- LinkedIn: https://linkedin.com/in/MeladAdera
+- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/your-profile
